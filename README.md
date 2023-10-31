@@ -1,5 +1,5 @@
 Site is deployed at Netlify-
-[(cocktail-react-dk.netlify.app)]
+[Click here!](cocktail-react-dk.netlify.app)
 
 ## Steps
 
